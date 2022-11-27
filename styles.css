@@ -1,0 +1,33 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #f94f6d;
+    width: 120px;
+    margin: 20px;
+    border-radius: 10px;
+    font-family: 'Calculator', sans-serif;                                     
+}
+
+.container {
+    background: white;
+    max-width: 25%;
+    margin: auto;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    border: 3px solid blue;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+button {
+    font-family: 'Calculator', sans-serif; 
+}
+
